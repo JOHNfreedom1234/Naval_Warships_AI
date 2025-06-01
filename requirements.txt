@@ -1,0 +1,9 @@
+Flask
+Flask-Session
+transformers
+requests
+beautifulsoup4
+wikipedia-api
+wikidata
+torch
+accelerate
